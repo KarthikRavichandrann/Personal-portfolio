@@ -1,7 +1,6 @@
 body{
 min-height: 200vh;
 }
-
 .logo{
   font-weight: 300;
   padding-left: 10px;
@@ -9,6 +8,13 @@ min-height: 200vh;
 .thin-text{
   font-weight: 300;
   background: rgba( 96, 125, 139, .4 );
-  padding: 20px;
+  padding: 40px;
   border-radius: 10px;
+}
+.section-headder{
+  font-weight: 300;
+}
+.cta{
+  font-weight: 300;
+  text-shadow: 1px 1px black;
 }
